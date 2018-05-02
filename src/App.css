@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  font-family: cursive;
+}
+
+h1 {
+  margin: 5rem 0;
+  color: cornflowerblue;
+}
+
+result-list {
+  display:flex;
+  justify-content: space-between;
+
+}
+
+li {
+  list-style-type: none;
+  display:inline-block;
+  border: 1px solid black;
+  border-radius:5px;
+  padding:.5rem;
+  margin:.5rem;
+}

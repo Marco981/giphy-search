@@ -1,0 +1,20 @@
+form {
+    display:inline-block;
+    margin-bottom:2rem;
+}
+
+input[type="search"] {
+    border-radius: 5px;
+    border-style: ridge;
+    padding:.4rem;
+}
+
+button {
+    background-color: lightseagreen;
+    border: none;
+    padding: .5rem;
+    border-radius: 5px;
+    margin-left: .5rem;
+    color: white;
+    text-transform: uppercase;
+}
